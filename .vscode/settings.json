@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gd32f1x0.h": "c",
+        "systick.h": "c",
+        "gd32f1x0_it.h": "c",
+        "gd32f1x0_eval.h": "c"
+    }
+}
