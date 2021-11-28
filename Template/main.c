@@ -17,6 +17,7 @@
 #include "gd32f1x0_eval.h"
 #include "gd32f1x0.h"
 #include "systick.h"
+#include "stdlib.h"
 
 uint8_t Road_change_flag;
 uint8_t check_flag;
